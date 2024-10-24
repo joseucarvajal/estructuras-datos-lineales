@@ -1,0 +1,11 @@
+1. Crear un repositorio en GitHub
+
+2. Crear un archivo para definir las clases con las que vamos a trabajar
+    clase Camion, con los atributos:
+        - placa
+        - modelo: el año del modelo
+        - capacidad: en toneladas
+    clase Camion de transporte especial: Por ejemplo un camion para transportar mercancias peligrosas
+        - mercancia_peligrosa: Nombre de la mercancia peligrosa que transporta
+
+3. 

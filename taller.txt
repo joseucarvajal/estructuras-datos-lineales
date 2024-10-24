@@ -1,0 +1,36 @@
+Para el próximo 06 de noviembre, se debe entregar el siguiente:
+- Identificar una clase de un proceso en una empresa o una idea de negocio:
+    
+    Ejemplo:
+    - Una empresa de transporte de mercancias
+    - Una empresa de venta de productos de limpieza
+    - Una empresa de venta de productos de belleza
+    - Una empresa de mantenimiento de computadores
+
+- Van a identificar una o dos clases del proceso de la empresa o idea de negocio
+
+- Crear las clases
+
+- Crear una lista enlazada para almacenar los elementos de la clase
+
+- Realizar las siguientes operaciones sobre la lista enlazada del paso anterior:
+    - Adicionar un elemento a la lista
+    - Buscar un elemento en la lista
+    - Eliminar un elemento de la lista
+    - Imprimir la lista
+    - Realizar un cálculo matemático sobre los elementos de la lista. Por ejemplo:
+        - Sumar todos los elementos de la lista
+        - Encontrar el elemento con el valor máximo
+        - Encontrar el elemento con el valor mínimo
+        - Calcular el promedio de los elementos de la lista
+
+- Asesoría (es obligatorio asistir):
+    - Octubre 30 del 2024
+
+- Sustentación:
+    - Noviembre 06 del 2024
+    - Por cada día de entrega tarde se restará 1.5 a la nota final
+    
+- Parámetros adicionales:
+    - El proyecto se debe subir a un repositorio de GitHub
+
